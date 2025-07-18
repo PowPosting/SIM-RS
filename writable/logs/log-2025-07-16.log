@@ -1,0 +1,120 @@
+CRITICAL - 2025-07-16 09:22:52 --> Error: Class "App\Models\UserModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Auth.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\KP\\SIMRSv2\\public\\index.php')
+CRITICAL - 2025-07-16 09:24:29 --> Error: Class "App\Models\UserModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Auth.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\KP\\SIMRSv2\\public\\index.php')
+CRITICAL - 2025-07-16 09:34:21 --> Error: Class "App\Models\UserModel" not found
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthSimple.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthSimple->attemptLogin()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AuthSimple))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\KP\\SIMRSv2\\public\\index.php')
+CRITICAL - 2025-07-16 09:41:27 --> Error: Class "App\Models\UserModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Auth.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\KP\\SIMRSv2\\public\\index.php')
+CRITICAL - 2025-07-16 09:41:32 --> Error: Class "App\Models\UserModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Auth.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\KP\\SIMRSv2\\public\\index.php')
+CRITICAL - 2025-07-16 09:43:51 --> Error: Class "App\Models\UserModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Auth.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\KP\\SIMRSv2\\public\\index.php')
+CRITICAL - 2025-07-16 09:43:55 --> Error: Class "App\Models\UserModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Auth.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\KP\\SIMRSv2\\public\\index.php')
+CRITICAL - 2025-07-16 09:49:12 --> Error: Class "App\Models\UserModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Auth.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\KP\\SIMRSv2\\public\\index.php')
+CRITICAL - 2025-07-16 09:50:54 --> Error: Class "App\Models\UserModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Auth.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\KP\\SIMRSv2\\public\\index.php')
+CRITICAL - 2025-07-16 09:54:10 --> Error: Class "App\Models\UserModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Auth.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\KP\\SIMRSv2\\public\\index.php')
+CRITICAL - 2025-07-16 09:54:16 --> Error: Class "App\Models\UserModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Auth.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\KP\\SIMRSv2\\public\\index.php')
+CRITICAL - 2025-07-16 09:54:24 --> Error: Class "App\Models\UserModel" not found
+[Method: GET, Route: /]
+in APPPATH\Controllers\Auth.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('D:\\KP\\SIMRSv2\\public\\index.php')
